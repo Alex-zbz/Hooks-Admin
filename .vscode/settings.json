@@ -45,5 +45,6 @@
 		"truetype",
 		"zhongyingwen",
 		"zhuti"
-	]
+	],
+	"i18n-ally.localesPaths": ["src/language"]
 }
